@@ -1,4 +1,9 @@
 # Mario-Jump
+
+<p align="center">
+  <img src="public/20230808_205904_Edit.mp4.gif">
+</p>
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
